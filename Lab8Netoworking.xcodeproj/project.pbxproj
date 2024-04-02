@@ -13,6 +13,7 @@
 		521400A82BB1FD5400C34226 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 521400A62BB1FD5400C34226 /* Main.storyboard */; };
 		521400AA2BB1FD5400C34226 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 521400A92BB1FD5400C34226 /* Assets.xcassets */; };
 		521400AD2BB1FD5400C34226 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 521400AB2BB1FD5400C34226 /* LaunchScreen.storyboard */; };
+		521400B72BB204D800C34226 /* Weather.swift in Sources */ = {isa = PBXBuildFile; fileRef = 521400B62BB204D800C34226 /* Weather.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		521400A92BB1FD5400C34226 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		521400AC2BB1FD5400C34226 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		521400AE2BB1FD5400C34226 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		521400B62BB204D800C34226 /* Weather.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Weather.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				521400A22BB1FD5400C34226 /* SceneDelegate.swift */,
 				521400A42BB1FD5400C34226 /* ViewController.swift */,
 				521400A62BB1FD5400C34226 /* Main.storyboard */,
+				521400B62BB204D800C34226 /* Weather.swift */,
 				521400A92BB1FD5400C34226 /* Assets.xcassets */,
 				521400AB2BB1FD5400C34226 /* LaunchScreen.storyboard */,
 				521400AE2BB1FD5400C34226 /* Info.plist */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				521400B72BB204D800C34226 /* Weather.swift in Sources */,
 				521400A52BB1FD5400C34226 /* ViewController.swift in Sources */,
 				521400A12BB1FD5400C34226 /* AppDelegate.swift in Sources */,
 				521400A32BB1FD5400C34226 /* SceneDelegate.swift in Sources */,
